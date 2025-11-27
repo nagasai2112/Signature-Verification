@@ -1,0 +1,15 @@
+[
+    {
+      "email": "demo@example.com",
+      "password": "$2a$10$QdMvsR.5n.bM8wY1PGr9du33n.6m/N7bbEmMGZc7Aq.vVpaHbyjDO"
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$2uvGf.7Jt0gTg9u5c.m0fOGKlTYOP77tMm/A6tbP3.Ij/equXeg9W"
+    },
+    {
+      "email": "vinay@project.com",
+      "password": "$2a$10$KYttXNdsvY6ghwW62d7XROQ9j6zAOUr9UnZaxghgb0ppOWA3khA76"
+    }
+  ]
+  
